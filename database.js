@@ -1,5 +1,5 @@
 const pgp = require('pg-promise')();
-var db = pgp('postgres://flxdmmlqrmbhgj:2570380630690f9991c62cde4904dcad8da7c30b19f565ad11ae2117b9d1b51b@ec2-75-101-138-26.compute-1.amazonaws.com:5432/dcq61ftft163an?ssl=true');
+var db = pgp('postgres://uuepmlmarbhhfz:94f26dc8d12d16c5e16d7b293d850e1f2c0629688093d36446e7dd22eed150a7@ec2-54-243-147-162.compute-1.amazonaws.com:5432/dfq2s57vtt88fe?ssl=true');
 // Add queries here
 
 module.exports = {
